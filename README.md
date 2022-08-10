@@ -1,18 +1,17 @@
-## Getting Started
+## About Guess a Number Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This game has one of the most innovative gameplays (almost).
+Your mission, should you choose to accept it, is to win a computer.
+Computer thinks of a number between 1 and 10 and you have to guess
+a number.
 
-## Folder Structure
+Game has 2 game modes: Infinite and Limited.
 
-The workspace contains two folders by default, where:
+Infinite - play until you or a computer surrend.
+Limited - play until 50 points. Each time you guess right,
+you will get 10 points
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Purpose of the game
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Main purpose is to train my Java skills.
+It is my first project, so it's not complicated. But I do my best to improve it. And one day I will become senior Software Developer.
