@@ -6,7 +6,7 @@ public class App{
         victoryPoints = 50;
         Scanner scan = new Scanner(System.in);
         nextPage();
-        System.out.println("Welcome to the Guess a Number!");
+        System.out.println("Welcome to the Guess a Number Game!");
         System.out.println("Today you have to guess a number between 1 and 10");
         System.out.println("You can an infinite or 100 points limited game");
         System.out.println("Please select game mode. [I]nfinite of [L]imited");
